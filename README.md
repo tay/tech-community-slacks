@@ -348,7 +348,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 
 ### 🇮🇪 Ireland
 
-- [Irish Tech Community](https://slackin-itc.herokuapp.com/) - [Many channels](http://irishtechcommunity.com/channels/) devoted to multiple subjects, from design and development of tech, to conferences and diversity.
+- [Irish Tech Community](https://irishtechcommunity.com/join-itc/) - [Many channels](https://irishtechcommunity.com/channels/) devoted to multiple subjects, from design and development of tech, to conferences and diversity.
 
 ### 🇮🇱 Israel
 
